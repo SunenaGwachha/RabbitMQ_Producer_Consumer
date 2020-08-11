@@ -39,3 +39,8 @@ If RabbitMQ already running we get the above message.
 
  
 •	Next go to localhost:15672.We will see the RabbitMQ console. The default username and password is guest.
+
+
+RabbitMQ console-http://localhost:15672/
+
+http://localhost:8080/javainuse-rabbitmq/producer?empName=emp1&empId=emp001
